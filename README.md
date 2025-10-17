@@ -1,2 +1,3 @@
-# vi-bot
-telegram-bot
+# VVIkonBot
+@vvikon-bot - тестовый telegram-bot
+
